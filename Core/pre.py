@@ -35,7 +35,7 @@ def autoupdate():
 				os.system('clear')
 			else:
 				print(alert + " Looks Like You Are Using Mailphish v.{}, There Is A Newer Version Out, Please Update Repo!".format(Version))
-				print(alert + "https://github.com/BiZken/Mailphish.git")
+				print(alert + "https://github.com/MCracker2002/Mailphish.git")
 				sys.exit()
 		else:
 			pass
