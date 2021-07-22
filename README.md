@@ -3,11 +3,13 @@
 # Mailphish
 
 
-**Coded By BiZken**
+**Coded By Pro MCracker**
 
-Special Thanks To Fanny Hasbi For helping Me With The Code Structure: https://github.com/fannyhasbi 
 
 Mailphish Will Help You To Create Professional Phishing Emails Fast And Easy
+
+**Visit Our Websites For Learn Hacking Methods**
+https://crackcodes.xyz And https://crackcodes.in
 
 #### If You Copy The Code And Make Your Own, Don't forget To Give Me Some Credit Kid!
 
@@ -81,4 +83,6 @@ Telegram: @MCracker2002
 
 ## Support 
 If You Want To Support Me So I Can Continue And Update Mailphish And Create Other Hacking Tools
+Special Thanks To Fanny Hasbi For helping Me With The Code Structure: https://github.com/fannyhasbi 
+
 
