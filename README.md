@@ -76,8 +76,8 @@ python3 Mailphish.py
 ## Contact
 If You Have Any Ideas And/Or Have Created Some Phishing Email(s) And Want To Have Your Name Here As A Code Helper
 You Can Contact Me Here:
-Instagram: pro.mcracker
-Telegram: @MCracker2002
+Instagram: [pro.mcracker](https://instagram.com/pro.mcracker)
+Telegram: [@MCracker2002](https://telegram.me/MCracker2002)
 
 ## Support 
 If You Want To Support Me So I Can Continue And Update Mailphish And Create Other Hacking Tools
